@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-native-touch-id
+  tags:
+    - external
+    - fork
+    - public
+    - java
+  annotations:
+    github.com/project-slug: Thinkei/react-native-touch-id
+spec:
+  type: library
+  system: core-technology
+  lifecycle: production
